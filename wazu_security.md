@@ -39,4 +39,4 @@ sudo systemctl restart netfilter-persistent
 sudo apt update
 sudo apt install systemd-journal-remote
 
-![Alt text](Pictures/Screenshot_2025-01-21_13_30_20.png)
+![Alt text](Screenshot_2025-01-21_13_30_20.png)
